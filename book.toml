@@ -1,16 +1,15 @@
 [book]
-authors = ["lzzsG"]
+authors = ["piperTang"]
 language = "en"
 multilingual = false
 src = "src"
-title = "mdBook-pages-test"
+title = "学无止境"
 
 
 [output.html]
-site-url = "/mdBook-pages-test/"
 default-theme = "light"
 preferred-dark-theme = "light"
-git-repository-url = "https://github.com/lzzsG/mdBook-pages-test"
+git-repository-url = "https://github.com/piperTang/piperTang.github.io"
 git-repository-icon = "fa-github"
 
 
