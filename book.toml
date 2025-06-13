@@ -9,6 +9,7 @@ title = "学无止境"
 [output.html]
 default-theme = "light"
 preferred-dark-theme = "light"
+mathjax-support = true
 git-repository-url = "https://github.com/piperTang/piperTang.github.io"
 git-repository-icon = "fa-github"
 
